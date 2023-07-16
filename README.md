@@ -1,1 +1,1 @@
-# Java-data-stuctures-algorithms
+# Java-data-stuctures and algorithms
